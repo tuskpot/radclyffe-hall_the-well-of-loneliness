@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-6.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Dialog from the same speaker (reading from a printed passage) continues in the following paragraph.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
