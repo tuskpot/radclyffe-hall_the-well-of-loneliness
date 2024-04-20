@@ -68,3 +68,7 @@ p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
 }
+
+blockquote[xml|lang]{
+	font-style: italic;
+}
