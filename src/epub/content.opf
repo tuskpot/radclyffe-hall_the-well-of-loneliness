@@ -31,37 +31,43 @@
 		<dc:subject id="subject-1">Lesbians -- England -- Social conditions -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A young woman struggles to understand and accept herself, and particularly her love of other women, within a society that rejects her unconventional behavior as unfeminine and even unnatural.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Confident of a son, Sir Philip and Lady Anna Gordon plan to name their first child Stephen. Instead they receive a daughter but decide to keep the name anyway. Young Stephen Gordon continues to surprise her parents with her boisterous play, demands for shorter hair and insistence on riding her horse astride. After a childhood crush on a housemaid, Stephen begins to realize for herself that she is different than the world expects. As Stephen grows into adulthood, leaves her home and then England, her life is continually shaped by her love and affection for other women.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/radclyffe-hall"&gt;Radclyffe Hall&lt;/a&gt;, like her protagonist, had a number of romantic relationships with other women, and identified herself as an invert following the theory of sexual inversion that was developing at the time. Hall wrote the novel partly to promote the theory and directly references some of its advocates within the book.&lt;/p&gt;
+			&lt;p&gt;The novel caused a sensation when it was first released, leading to parodies and imitators as well being adapted to a play. Censorship pressure led the publisher to stop printing the novel in England, only to quickly import more copies from France to meet demand. Today it remains a touchstone of queer fiction.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/73042</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/wellofloneliness0000radc_m5d4/mode/2up</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Well_of_Loneliness</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/radclyffe-hall_the-well-of-loneliness</meta>
 		<dc:creator id="author">Radclyffe Hall</dc:creator>
 		<meta property="file-as" refines="#author">Hall, Radclyffe</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Marguerite Antonia Radclyffe Hall</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Radclyffe_Hall</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50018665</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Rosa Bonheur</dc:contributor>
+		<meta property="file-as" refines="#artist">Bonheur, Rosa</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Rosa_Bonheur</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n80070626</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Jen Haines</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Haines, Jen</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Distributed Proofreaders Canada</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders Canada</meta>
+		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdpcanada.net</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Evan Hall</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Hall, Evan</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
